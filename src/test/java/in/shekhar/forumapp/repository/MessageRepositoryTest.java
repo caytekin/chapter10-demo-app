@@ -37,6 +37,7 @@ public class MessageRepositoryTest {
 		assertNotNull(messages);
 		assertFalse(messages.isEmpty());
 		assertEquals(1, messages.size());
+		assertEquals(1, messages.size());
 	}
 
 	
